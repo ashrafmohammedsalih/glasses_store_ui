@@ -10,7 +10,7 @@ This project is a starting point for ui desinging.
 
 ![ScreenShot](https://user-images.githubusercontent.com/57557822/245294877-12ae916b-e72a-46da-a2fd-eb0d4d1d470a.jpg)
 
-### Original UI :-
+### Original UI/Ux Design :-
 
 ![ScreenShot](https://user-images.githubusercontent.com/57557822/245298024-ff876fb9-a8ba-46b4-b3fe-632673984604.png)
 
