@@ -62,12 +62,12 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/pngwing.png
-    - assets/menu.png
-    - assets/Search.png
-    - assets/back.png
-    - assets/Persol-1.jpg
-    - assets/Persol-2.jpg
+    - assets/images/pngwing.png
+    - assets/images/menu.png
+    - assets/images/Search.png
+    - assets/images/back.png
+    - assets/images/Persol-1.jpg
+    - assets/images/Persol-2.jpg
 
   #   - images/a_dot_ham.jpeg
 
@@ -86,7 +86,7 @@ flutter:
     - family: Jellee-Roman
       fonts:
 
-        - asset: assets/Jellee-Roman.otf
+        - asset: assets/fonts/Jellee-Roman.otf
           # weight: 400
 
   #   - family: Trajan Pro
