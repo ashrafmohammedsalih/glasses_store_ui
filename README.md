@@ -6,7 +6,7 @@ The glasses store app UI is designed to provide a seamless and enjoyable shoppin
 
 This project is a starting point for a Flutter application.
 
-![ScreenShot]([https://raw.github.com/{username}/{repository}/{branch}/{path}](https://user-images.githubusercontent.com/57557822/245294877-12ae916b-e72a-46da-a2fd-eb0d4d1d470a.jpg))
+![ScreenShot](https://user-images.githubusercontent.com/57557822/245294877-12ae916b-e72a-46da-a2fd-eb0d4d1d470a.jpg)
 
 A few resources to get you started if this is your first Flutter project:
 
