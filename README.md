@@ -14,7 +14,7 @@ This project is a starting point for ui desinging.
 
 ![ScreenShot](https://user-images.githubusercontent.com/57557822/245298024-ff876fb9-a8ba-46b4-b3fe-632673984604.png)
 
-[Orginal UI/UX Url : ](https://dribbble.com/shots/11186267-Sunglasses-Online-Shop-App-Design-Concept "Sunglasses")
+[Orginal UI/UX Url in Dribbble  ](https://dribbble.com/shots/11186267-Sunglasses-Online-Shop-App-Design-Concept "Sunglasses")
 
 <!-- A few resources to get you started if this is your first Flutter project:
 
