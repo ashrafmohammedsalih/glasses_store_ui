@@ -12,6 +12,9 @@ This project is a starting point for ui desinging.
 
 ### Original UI :-
 
+![ScreenShot](https://user-images.githubusercontent.com/57557822/245298024-ff876fb9-a8ba-46b4-b3fe-632673984604.png)
+
+
 <!-- A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
