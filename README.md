@@ -1,6 +1,6 @@
-# ui_shoping
+# Glasses Store UI
 
-A new Flutter project.
+The glasses store app UI is designed to provide a seamless and enjoyable shopping experience for users looking to purchase eyeglasses or sunglasses. The interface is clean, modern, and user-friendly, with a focus on highlighting the products and their features.
 
 ## Getting Started
 
