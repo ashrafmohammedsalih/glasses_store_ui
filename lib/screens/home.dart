@@ -56,14 +56,14 @@ class _HomeScreenState extends State<HomeScreen>
                 padding: EdgeInsets.only(right: 18, top: 35),
                 child: Image(
                   color: Colors.black87,
-                  image: AssetImage("assets/Search.png"),
+                  image: AssetImage("assets/images/Search.png"),
                 ))
           ],
           leading: const Padding(
               padding: EdgeInsets.only(right: 0, top: 35),
               child: Image(
                 color: Colors.black87,
-                image: AssetImage("assets/menu.png"),
+                image: AssetImage("assets/images/menu.png"),
               ))),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.start,
@@ -112,15 +112,15 @@ class _HomeScreenState extends State<HomeScreen>
             child: ListView(
               scrollDirection: Axis.horizontal,
               children: [
-                product(context:context),
+                Product(context:context),
                 SizedBox(
                   width: screenWidth * 0.05,
                 ),
-                product(context:context),
+                Product(context:context),
                 SizedBox(
                   width: screenWidth * 0.05,
                 ),
-                product(context:context),
+                Product(context:context),
               ],
             ),
           ))

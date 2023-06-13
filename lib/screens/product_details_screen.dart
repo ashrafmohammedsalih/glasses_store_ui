@@ -9,9 +9,9 @@ class ProductDescScreen extends StatefulWidget {
 
 class _ProductDescScreenState extends State<ProductDescScreen> {
   final items = [
-    Image.asset('assets/Persol-1.jpg'),
-    Image.asset('assets/pngwing.png'),
-    Image.asset('assets/Persol-1.jpg'),
+    Image.asset('assets/images/Persol-1.jpg'),
+    Image.asset('assets/images/pngwing.png'),
+    Image.asset('assets/images/Persol-1.jpg'),
   ];
 
   int currentIndex = 0;
@@ -32,7 +32,7 @@ class _ProductDescScreenState extends State<ProductDescScreen> {
             child:Image(
          
                    color: Colors.black87,
-                    image: AssetImage("assets/Search.png"),
+                    image: AssetImage("assets/images/Search.png"),
                   )
           )
           ],
@@ -40,7 +40,7 @@ class _ProductDescScreenState extends State<ProductDescScreen> {
               padding: EdgeInsets.only(right: 0,top: 35),
             child:Image(
                    color: Colors.black87,
-                    image: AssetImage("assets/back.png"),
+                    image: AssetImage("assets/images/back.png"),
                   )
           )
           

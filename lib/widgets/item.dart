@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 import '../screens/product_details_screen.dart';
 
-class product extends StatelessWidget {
-  const product({
+class Product extends StatelessWidget {
+  const Product({
     super.key,
     required this.context,
 
@@ -53,7 +53,7 @@ class product extends StatelessWidget {
                       decoration: const BoxDecoration(
                           image: DecorationImage(
                               fit: BoxFit.fill,
-                              image: AssetImage('assets/pngwing.png'))),
+                              image: AssetImage('assets/images/pngwing.png'))),
                     ),
                   ),
                   SizedBox(
